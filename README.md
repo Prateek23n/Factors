@@ -10,3 +10,5 @@ pfact()     -> Gives the list of prime factors for the given number, returns -1 
 sum_efact() -> Returns the sum of even factors for the given number, returns -1 if there's no factor for the number.
 sum_ofact() -> Returns the sum of odd factors for the given number, returns -1 if there's no factor for the number.
 sum_pfact() -> Returns the sum of prime factors for the given number, returns -1 if there's no factor for the number.
+
+A Sample program added to show the results. Users can give number of their own choice.
